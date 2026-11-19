@@ -22,3 +22,5 @@ Sql interfejs ma implementować metody takie jak findall(), find(), readOne(), r
 Wszystkie metody obiektu z klasy Mysqldb mają być sprawdzone i wywołane w kodzie.
 
 !! Dodatkowe punkty będą uwzględnione za implementacje własnej metody testującej poprawnosć działania metod naszego obiektu
+
+!! Punkty dodatkowe za preparowane zapytania
